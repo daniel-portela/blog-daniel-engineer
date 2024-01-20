@@ -20,9 +20,7 @@
 
 - Sessões de posts recentes, mídias sociais e projetos.
 
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000f2&height=45&section=footer"/>
-
 
 <br><b>Contato:</b>
 
@@ -37,5 +35,3 @@
  <a href="https://wa.me/77999109489" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Whatsapp-05122A?style=flat&logo=whatsapp" alt="whatsapp"/>
 </a>
-
-
