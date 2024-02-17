@@ -465,7 +465,6 @@ section {
 
 
 @media (max-width:991px) {
-
     html {
         font-size: 55%;
     }
@@ -484,7 +483,6 @@ section {
 }
 
 @media (max-width:768px) {
-
     #menu-bars {
         display: inline-block;
     }
@@ -536,18 +534,15 @@ section {
         flex-flow: column;
         text-align: center;
     }
-
 }
 
 @media (max-width:621px) {
-
     .header .icons i {
         display: none;
     }
 }
 
 @media (max-width:450px) {
-
     html {
         font-size: 50%;
     }
@@ -555,5 +550,4 @@ section {
     .contact form .inputBox input {
         width: 100%;
     }
-
 }
