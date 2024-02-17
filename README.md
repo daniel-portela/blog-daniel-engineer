@@ -11,9 +11,9 @@ Site de blog responsivo <a href="https://blogdanielengineer.netlify.app/">Daniel
 <a href="https://blogdanielengineer.netlify.app/"><strong>Demonstração ao vivo</strong></a>
 </div>
 
-![Alt text](preview-blogdanielengineer.png)
+![preview](https://github.com/daniel-portela/blog-daniel-engineer/assets/110783805/5958781b-61d4-4bb6-97b7-275cd0c976a1)
 
-![alt text](preview-responsive.jpg)
+![preview-responsive](https://github.com/daniel-portela/blog-daniel-engineer/assets/110783805/b3416100-8c6d-424b-adbf-4b4fbee858e0)
 
 <b>Estrutura do projeto</b>
 
