@@ -65,7 +65,7 @@ Este projeto foi desenvolvido por <a href="https://github.com/daniel-portela/">D
 
 Este projeto é distribuído sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
 
-Esse README fornece uma visão geral abrangente do projeto Blog <a href="https://blogdanielengineer.netlify.app/">Daniel Engineer</a>, detalhando sua estrutura e funcionalidades. Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato!
+Esse README fornece uma visão geral abrangente do projeto Blog <a href="https://blogdanielengineer.netlify.app/">Daniel Portela</a>, detalhando sua estrutura e funcionalidades. Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato!
 
 <b>Contato:</b>
 
