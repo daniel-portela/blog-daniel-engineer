@@ -1,6 +1,6 @@
 <div align="center">
 
-Site de blog responsivo <a href="https://blogdanielengineer.netlify.app/">Daniel Engineer</a>
+Site de blog responsivo <a href="https://blogdanielengineer.netlify.app/">Daniel Portela</a>
 
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=blue&labelColor=0D1117)&nbsp;
@@ -8,7 +8,7 @@ Site de blog responsivo <a href="https://blogdanielengineer.netlify.app/">Daniel
 
 <p>Este é o repositório do projeto "Blog Daniel Engineer", um site estático desenvolvido por Daniel Engineer para compartilhar conhecimento sobre desenvolvimento front-end, design web e tecnologias relacionadas. Este README fornecerá uma visão geral detalhada do projeto, incluindo sua estrutura, funcionalidades e como executá-lo localmente.</p>
 
-<a href="https://blogdanielengineer.netlify.app/"><strong>Demonstração ao vivo</strong></a>
+<a href="https://blogdanielengineer.netlify.app/">Demonstração ao vivo</a>
 </div>
 
 ![preview](https://github.com/daniel-portela/blog-daniel-engineer/assets/110783805/5958781b-61d4-4bb6-97b7-275cd0c976a1)
@@ -67,19 +67,8 @@ Este projeto é distribuído sob a licença MIT. Consulte o arquivo [LICENSE](LI
 
 Esse README fornece uma visão geral abrangente do projeto Blog <a href="https://blogdanielengineer.netlify.app/">Daniel Engineer</a>, detalhando sua estrutura e funcionalidades. Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato!
 
-<br><b>Contato:</b>
+<b>Contato:</b>
 
-<p>Se você quiser entrar em contato comigo, sinta-se a vontade.</p> 
+Se você tiver alguma dúvida, sugestão ou interesse em colaborar, não hesite em me contatar.
 
-<a href="https://linkedin.com/in/danielengineer" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/ - LinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
- <a href="https://instagram.com/danielengineer_" target="_blank">
- <img align="center" src="https://img.shields.io/badge/ - Instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
- <a href="https://wa.me/77999109489" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Whatsapp-05122A?style=flat&logo=whatsapp" alt="whatsapp"/>
-</a>
-<a href="https://www.behance.net/danielengineer_" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-behance-05122A?style=flat&logo=behance" alt="behance"/>
-</a>
+Email: <a href="mailto:danielportela.ti@gmail.com"> danielportela.ti@gmail.com</a> 
