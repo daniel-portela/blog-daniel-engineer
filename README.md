@@ -7,7 +7,7 @@ Site de blog responsivo <a href="https://blogdanielportela.netlify.app/">Daniel 
 <a href="https://blogdanielportela.netlify.app/">Demonstração ao vivo</a>
 </div>
 
-![alt text](preview.jpg)
+![preview](https://github.com/daniel-portela/blog-daniel-portela/assets/110783805/aedc8a6b-45e4-49ea-8af9-00f97a221cc8)
 
 👨🏼‍💻 <b>Tecnologias utilizadas:</b>
 
