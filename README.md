@@ -49,8 +49,6 @@ O rodapé inclui links para as <b>redes sociais</b>, permitindo que os visitante
 
 Este projeto foi desenvolvido por <a href="https://www.linkedin.com/in/danielportelati/">Daniel Portela</a>. 
 
-<b>Licença</b>
-
 🔒 <b>Licença</b>
 
 Este projeto está sob [LICENSE](LICENSE), o que significa que você não tem permissão para usar, modificar e distribuir o código conforme desejar, desde que mantenha o aviso de direitos autorais e a licença. Contudo, se você encontrar bugs, tiver sugestões de melhorias ou quiser contribuir de alguma forma, ficarei feliz em receber seu feedback.
