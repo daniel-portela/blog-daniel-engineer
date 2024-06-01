@@ -2,9 +2,7 @@
 
 Site de blog responsivo <a href="https://blogdanielportela.netlify.app/">Daniel Portela</a>
 
-<p>Este é o repositório do projeto "Blog Daniel Engineer", um site estático desenvolvido por Daniel Engineer para compartilhar conhecimento sobre desenvolvimento front-end, design web e tecnologias relacionadas. Este README fornecerá uma visão geral detalhada do projeto, incluindo sua estrutura, funcionalidades e como executá-lo localmente.</p>
-
-<a href="https://blogdanielportela.netlify.app/">Demonstração ao vivo</a>
+<p>Este é o repositório do projeto "Blog Daniel Portela", um site estático desenvolvido por Daniel Portela para compartilhar conhecimento sobre Desenvolvimento Front-end, design web e tecnologias relacionadas. Este README fornecerá uma visão geral detalhada do projeto, incluindo sua estrutura, funcionalidades e como executá-lo localmente.</p>
 </div>
 
 ![preview](https://github.com/daniel-portela/blog-daniel-portela/assets/110783805/aedc8a6b-45e4-49ea-8af9-00f97a221cc8)
